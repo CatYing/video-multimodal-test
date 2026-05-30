@@ -1,0 +1,7 @@
+{
+  "stop_reason": "completed",
+  "total_steps": 322,
+  "tried_edges": 70,
+  "elapsed_seconds": 4223.4529999999795,
+  "package": "com.huawei.iptv.stb"
+}
